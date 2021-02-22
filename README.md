@@ -1,4 +1,34 @@
 # Quotes
+# The Quotes webapp, 21/2/2021
+# By Mfuranzima Sandrine
+
+## Description
+
+Quotes: a web application that gathers quotes from various individuals past and present.
+
+Visitors to the site are encouraged to post their favourite quotes by historical and/or present figures. This is then made visible to others who can either upvote or downvote and the quote with the highest number of vote gets highlighted.
+
+Setup/Installation Requirements There are no installation requirments needed... with your web browser you can be abe to access the site.
+
+Known Bugs There is a small issue that will be fixed in the coming days... an auto-refresh. clearing the fields as soon as the quote is submitted. and highlighting the quote with the highest number of votes.
+
+## Technologies Used
+* HTML
+* CSS
+* Bootstrap
+* JavaScript/Typescript
+* Git
+* Angular Cli
+* 
+## Support and contact details
+If u have any question u can contact me on:
+
+* Tel:+250784649718
+* Email:mfuranzimasandri20@gmail.com
+
+# License
+
+MIT Copyright (c) 2021 sandrine
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
