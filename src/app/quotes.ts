@@ -1,6 +1,7 @@
 export class Quotes {
   public showDescription: boolean;
   public showBtn: boolean;
+  name: any;
   constructor(
     public id: number,
     public author: string,
