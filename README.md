@@ -1,6 +1,6 @@
 # Quotes
-# The Quotes webapp, 21/2/2021
-# By Mfuranzima Sandrine
+## The Quotes webapp, 21/2/2021
+## By Mfuranzima Sandrine
 
 ## Description
 
