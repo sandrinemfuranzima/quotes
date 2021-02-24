@@ -12,6 +12,7 @@ Setup/Installation Requirements There are no installation requirments needed... 
 
 Known Bugs There is a small issue that will be fixed in the coming days... an auto-refresh. clearing the fields as soon as the quote is submitted. and highlighting the quote with the highest number of votes.
 
+
 ## Technologies Used
 * HTML
 * CSS
