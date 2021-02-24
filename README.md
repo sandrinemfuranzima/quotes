@@ -20,7 +20,6 @@ Known Bugs There is a small issue that will be fixed in the coming days... an au
 * JavaScript/Typescript
 * Git
 * Angular Cli
-* 
 ## Support and contact details
 If u have any question u can contact me on:
 
