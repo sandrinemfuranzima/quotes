@@ -25,7 +25,6 @@ If u have any question u can contact me on:
 
 * Tel:+250784649718
 * Email:mfuranzimasandri20@gmail.com
-
 # License
 
 MIT Copyright (c) 2021 sandrine
