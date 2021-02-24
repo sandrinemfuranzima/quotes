@@ -6,7 +6,7 @@
 
 Quotes: a web application that gathers quotes from various individuals past and present.
 
-Visitors to the site are encouraged to post their favourite quotes by historical and/or present figures. This is then made visible to others who can either upvote or downvote and the quote with the highest number of vote gets highlighted.
+Visitors to the site are encouraged  to post their favourite quotes by historical and/or present figures. This is then made visible to others who can either upvote or downvote and the quote with the highest number of vote gets highlighted.
 
 Setup/Installation Requirements There are no installation requirments needed... with your web browser you can be abe to access the site.
 
